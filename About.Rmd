@@ -1,0 +1,16 @@
+---
+title: "Sobre"
+output: html_notebook
+---
+
+Este aplicativo foi originalmente desenvolvido por 
+<a href="https://twitter.com/cassianord" target="_blank">Cassiano Ricardo Dalberto</a>: cassianord@gmail.com
+
+Os dados brutos foram obtidos de três fontes:
+* <a href="https://brasil.io/" target="_blank">Brasil.io</a>. 
+* <a href="https://github.com/wcota/covid19br" target="_blank">Wesley Cota/UFV</a>.
+* <a href="https://coronavirus.jhu.edu/map.html" target="_blank">Johns Hopkins University, Center for Systems Science and Engineering (CSSE)</a>.
+
+A presente aplicação foi desenvolvida em prol do interesse público, sem fins lucrativos, através do software de código aberto R. As rotinas estão disponíveis para replicação no <a href="https://github.com/cassianord/covid_shiny_app" target="_blank">GitHub</a>.
+
+
