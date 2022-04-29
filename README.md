@@ -1,5 +1,5 @@
 ---
-title: "Aplicativo COVID-19 - Estatísticas Nacionais e Internacionais"
+## "Aplicativo COVID-19 - Estatísticas Nacionais e Internacionais"
 ---
 
 Repositório contendo bases de dados e as rotinas para o aplicativo "COVID-19 - Estatísticas Nacionais e Internacionais", desenvolvido em R, através do pacote Shiny. Sugestões são sempre bem-vindas =). 
